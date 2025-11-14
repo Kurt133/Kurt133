@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kurt133
-- 👀 I’m interested on learning to be software engineer someday!
+- 👀
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️
 - 📫 How to reach me joelkurtc@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
